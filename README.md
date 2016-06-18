@@ -3,11 +3,13 @@ A simple script for launching caffeinate for a specific PID you supply as an arg
 
 Ever wanted to make sure your Mac doesn't go to sleep while a certain process is open?
 
-# Usage
+## Usage
 ```
 PIDcoffee.sh <Name of your process>
 ```
-# Examples
+## Examples
 ```
 PIDcoffee.sh Colloquy
 ```
+## Quitting
+```disown``` that's it
